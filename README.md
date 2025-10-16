@@ -18,8 +18,8 @@ A AI-powered multi-agent system using Alith framework with 6 specialized agents 
 
 ### 1. Clone/Download the Project
 ```bash
-git clone 
-cd multi-agent-orchestrator-example
+git clone  https://github.com/0xLazAI/Multi-Agent-Orchestrator-Example.git
+cd Multi-Agent-Orchestrator-Example
 # Extract or clone the multiagent folder
 ```
 
