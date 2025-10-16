@@ -187,4 +187,3 @@ multiagent/
 - Integrate with your applications
 - Scale to production workloads
 
-**Your multi-agent orchestrator is ready for real AI-powered workflows!** 🚀
